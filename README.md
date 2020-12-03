@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I don't know how you must have arrived here ...
+But I will start by introducing myself a little, I am Caroline and I have been working with IT for almost 10 years. During this journey I have worked in several areas such as:
+ - :phone: User IT support (service desk) 
+ - :computer: Network design and operation (routing, switching, VoIP, wireless, LAN/WAN, etc)
+ - :loop: DevOps 
+ - :space_invader: :rocket: I currently work in a technological innovation team at [Telefônica/Vivo](https://www.linkedin.com/company/vivo-telefonicabr/)
