@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **carolinebrasil/carolinebrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Caroline Brasil :woman:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-ribeiro-45589141/)](https://www.linkedin.com/in/carolinebrasil/)
+
+### Hi there 👋
+
 I don't know how you must have arrived here ...
 But I will start by introducing myself a little, I am Caroline and I have been working with IT for almost 10 years. During this journey I have worked in several areas such as:
- - :phone: User IT support (service desk) 
- - :computer: Network design and operation (routing, switching, VoIP, wireless, LAN/WAN, etc)
- - :loop: DevOps 
+
+ - :phone: :chart_with_upwards_trend: User IT support (service desk) 
+ - :computer: :nerd_face: Network design and operation (routing, switching, VoIP, wireless, LAN/WAN, etc)
+ - :loop: :pushpin: DevOps 
  - :space_invader: :rocket: I currently work in a technological innovation team at [Telefônica/Vivo](https://www.linkedin.com/company/vivo-telefonicabr/)
+
+<center>
+ <table>
+   <tr>
+       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebrasil&hide=css,html&layout=compact" /></td>
+       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=carolinebrasil&count_private=true" /></td>
+   </tr>
+ </table>
