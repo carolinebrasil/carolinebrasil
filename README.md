@@ -32,7 +32,7 @@ But I will start by introducing myself a little, I am Caroline and I have been w
 <center>
  <table>
    <tr>
-       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebrasil&hide=css,html&layout=compact" /></td>
+       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebrasil&hide=javascript,css,html&layout=compact" /></td>
        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=carolinebrasil&count_private=true" /></td>
    </tr>
  </table>
