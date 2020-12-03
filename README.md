@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Caroline Brasil :woman:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-ribeiro-45589141/)](https://www.linkedin.com/in/carolinebrasil/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinebrasil/)](https://www.linkedin.com/in/carolinebrasil/)
 
 ### Hi there 👋
 
@@ -28,6 +28,8 @@ But I will start by introducing myself a little, I am Caroline and I have been w
  - :computer: :nerd_face: Network design and operation (routing, switching, VoIP, wireless, LAN/WAN, etc)
  - :loop: :pushpin: DevOps 
  - :space_invader: :rocket: I currently work in a technological innovation team at [Telefônica/Vivo](https://www.linkedin.com/company/vivo-telefonicabr/)
+
+- 🌱 I’m currently learning Python, K8s and Cloud.
 
 <center>
  <table>
