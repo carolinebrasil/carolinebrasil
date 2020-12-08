@@ -29,7 +29,9 @@ But I will start by introducing myself a little, I am Caroline and I have been w
  - :loop: :pushpin: DevOps 
  - :space_invader: :rocket: I currently work in a technological innovation team at [Telefônica/Vivo](https://www.linkedin.com/company/vivo-telefonicabr/)
 
-- 🌱 I’m currently learning Python, K8s, Kafka (EDA) and Cloud.
+...
+
+- 🌱 I’m also currently learning Python, K8s, Kafka (EDA) and Cloud.
 
 <center>
  <table>
