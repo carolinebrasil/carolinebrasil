@@ -27,11 +27,11 @@ But I will start by introducing myself a little, I am Caroline and I have been w
  - :phone: :chart_with_upwards_trend: User IT support (service desk) 
  - :computer: :nerd_face: Network design and operation (routing, switching, VoIP, wireless, LAN/WAN, etc)
  - :loop: :pushpin: DevOps 
- - :space_invader: :rocket: I currently work in a technological innovation team at [Telefônica/Vivo](https://www.linkedin.com/company/vivo-telefonicabr/)
+ - :space_invader: :rocket: I currently work in a DevOps team at [Easynvest](https://www.linkedin.com/company/easynvest/)
 
  ...
 
- - 🌱 I’m also currently learning Python, K8s, Kafka (EDA) and Cloud.
+ - 🌱 I’m also currently learning Python, K8s, Terraform and Cloud.
  - 📫 How to reach me: @icarolinebrasil on Twitter
 
 <center>
