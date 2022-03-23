@@ -27,7 +27,7 @@ But I will start by introducing myself a little, I am Caroline and I have been w
  - :phone: :chart_with_upwards_trend: User IT support (service desk) 
  - :computer: :nerd_face: Network design and operation (routing, switching, VoIP, wireless, LAN/WAN, etc)
  - :loop: :pushpin: DevOps 
- - :space_invader: :rocket: I currently work in a DevOps team at [Easynvest](https://www.linkedin.com/company/easynvest/)
+ - :space_invader: :rocket: I currently work in a CI/CD team at [Nubank](https://www.linkedin.com/company/nubank/)
 
  ...
 
