@@ -31,8 +31,8 @@ But I will start by introducing myself a little, I am Caroline and I have been w
 
  ...
 
- - 🌱 I’m also currently learning Python, K8s, Terraform and Cloud.
- - 📫 How to reach me: @icarolinebrasil on Twitter
+ - 🌱 I’m also currently learning Python, K8s, CS, Go, Terraform and Cloud.
+ - 📫 How to reach me: @carolinebrasil on LinkedIn
 
 <center>
  <table>
